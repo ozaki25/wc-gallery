@@ -30,7 +30,7 @@ ${items
       `
 <div class="item">
   <a class="title" href="${url}">${title}</a>
-  <div class="meta">by ozaki25 Like ${created_at} <span class="likes">いいね ${likes_count}</span></div>
+  <div class="meta">by ozaki25 ${created_at} <span class="likes">いいね ${likes_count}</span></div>
 </div>
     `,
   )
